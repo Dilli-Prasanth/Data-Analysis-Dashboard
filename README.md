@@ -16,7 +16,7 @@ The dataset used in this project includes important attributes such as year, cou
 
 Using Excel’s advanced features, the data is structured and prepared for analysis. The final output is a well-designed dashboard that presents key metrics and trends in a visually appealing way.
 
-## 📂 Dataset Information
+## Dataset Information
 
 The dataset used in this project contains automobile sales data with the following key fields:
 
@@ -40,19 +40,19 @@ These steps ensure that the dataset is reliable and suitable for analysis. Prope
 
 ---
 
-## Dashboard Design and Features
+## 🛠 Tools Used & How They Work
 
-The dashboard is designed to be interactive, user-friendly, and visually informative. It uses Pivot Tables, charts, and slicers to present data in a dynamic way.
+This project is built using Microsoft Excel and its advanced features:
 
-One of the key features of the dashboard is year-wise analysis, which helps users understand how sales have changed over time. This makes it easier to identify growth patterns and seasonal trends.
+**Microsoft Excel** is used as the primary tool to organize, analyze, and visualize the data. It acts as the platform where the entire dashboard is created.
 
-Another important feature is country-wise performance analysis. This allows users to compare sales across different regions and identify high-performing markets. Similarly, product-wise insights help in understanding which automobile categories contribute the most to overall sales.
+**Power Query** is used for data cleaning and transformation. It helps in importing raw data, removing duplicates, handling missing values, and converting data into a structured format suitable for analysis.
 
-The dashboard also includes quantity analysis, which shows the number of units sold. This helps in tracking demand and evaluating product performance.
+**Pivot Tables** are used to summarize large datasets. They help in aggregating values such as total sales and quantity, making it easier to analyze data from different perspectives.
 
-Interactive slicers are added to allow users to filter data based on their requirements. This makes the dashboard flexible and easy to use. Visual elements such as bar charts, line graphs, and pie charts enhance the presentation and make the data more understandable.
+**Pivot Charts** are used to visualize the summarized data. These charts automatically update when filters are applied, making the dashboard dynamic.
 
----
+**Slicers (Filters)** provide interactivity. Users can filter the data by year, country, or product category, and the dashboard updates instantly based on the selection.
 
 ## Benefits of the Project
 
