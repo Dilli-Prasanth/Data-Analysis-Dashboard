@@ -16,7 +16,19 @@ The dataset used in this project includes important attributes such as year, cou
 
 Using Excel’s advanced features, the data is structured and prepared for analysis. The final output is a well-designed dashboard that presents key metrics and trends in a visually appealing way.
 
----
+## 📂 Dataset Information
+
+The dataset used in this project contains automobile sales data with the following key fields:
+
+- Year (Time period of sales)  
+- Country (Region of sales)  
+- Product (Automobile category)  
+- Quantity (Units sold)  
+- Sales Value (Revenue generated, if available)  
+
+The dataset was cleaned and transformed before building the dashboard to ensure accuracy and consistency.
+
+👉 **Dataset Link:** [Add your dataset link here]
 
 ## Data Cleaning and Transformation
 
