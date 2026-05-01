@@ -20,7 +20,7 @@ The dataset used in this project contains automobile sales data with the followi
 
 The dataset was cleaned and transformed before building the dashboard to ensure accuracy and consistency.
 
- **Dataset Link:** [https://github.com/Dilli-Prasanth/Data-Analysis-Dashboard/blob/main/Automobile%20sales%20Dashboard.xlsx]
+ **Dataset Link:** -a href="https://github.com/Dilli-Prasanth/Data-Analysis-Dashboard/blob/main/Automobile%20sales%20Dashboard.xlsx">Dataset</a>
 
 ## Data Cleaning and Transformation
 
@@ -30,9 +30,8 @@ In this project, Power Query is used to handle data cleaning tasks efficiently. 
 
 These steps ensure that the dataset is reliable and suitable for analysis. Proper data cleaning improves the quality of insights generated from the dashboard.
 
----
 
-## 🛠 Tools Used & How They Work
+## Tools Used & How They Work
 
 This project is built using Microsoft Excel and its advanced features:
 
@@ -54,7 +53,6 @@ The project also supports data-driven decision-making by providing accurate and 
 
 From a learning perspective, this project demonstrates strong skills in data cleaning, data analysis, and dashboard creation using Excel. It is highly valuable for roles such as data analyst and business analyst.
 
----
 
 ## Conclusion
 
@@ -62,7 +60,6 @@ The Automobile Sales Dashboard project showcases how Microsoft Excel can be used
 
 Overall, this project highlights the importance of transforming raw data into actionable insights. It serves as a strong portfolio project and reflects the ability to analyze data, build dashboards, and support business decisions effectively.
 
----
 
 ## Future Enhancements
 
