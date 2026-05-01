@@ -31,9 +31,9 @@ In this project, Power Query is used to handle data cleaning tasks efficiently. 
 These steps ensure that the dataset is reliable and suitable for analysis. Proper data cleaning improves the quality of insights generated from the dashboard.
 
 
-## Dashboard Interface
+## Dashboard Interface 
 
-![Automobile Sales Dashboard]
+![Automobile Sales Dashboard] -<a href=https://github.com/Dilli-Prasanth/Data-Analysis-Dashboard/blob/main/Dashboard%20AU%20SS.png>Dashboard</a>
 
 This interactive dashboard visually represents automobile sales data using dynamic charts and filters. It enables users to analyze year-wise trends, compare country performance, and identify top-selling products, supporting quick and effective data-driven decisions.
 
