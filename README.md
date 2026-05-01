@@ -31,19 +31,11 @@ In this project, Power Query is used to handle data cleaning tasks efficiently. 
 These steps ensure that the dataset is reliable and suitable for analysis. Proper data cleaning improves the quality of insights generated from the dashboard.
 
 
-## Tools Used & How They Work
+## Dashboard Interface
 
-This project is built using Microsoft Excel and its advanced features:
+![Automobile Sales Dashboard]
 
-**Microsoft Excel** is used as the primary tool to organize, analyze, and visualize the data. It acts as the platform where the entire dashboard is created.
-
-**Power Query** is used for data cleaning and transformation. It helps in importing raw data, removing duplicates, handling missing values, and converting data into a structured format suitable for analysis.
-
-**Pivot Tables** are used to summarize large datasets. They help in aggregating values such as total sales and quantity, making it easier to analyze data from different perspectives.
-
-**Pivot Charts** are used to visualize the summarized data. These charts automatically update when filters are applied, making the dashboard dynamic.
-
-**Slicers (Filters)** provide interactivity. Users can filter the data by year, country, or product category, and the dashboard updates instantly based on the selection.
+This interactive dashboard visually represents automobile sales data using dynamic charts and filters. It enables users to analyze year-wise trends, compare country performance, and identify top-selling products, supporting quick and effective data-driven decisions.
 
 ## Benefits of the Project
 
