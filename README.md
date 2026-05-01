@@ -1,13 +1,5 @@
 # Automobile Sales Dashboard
 
-## Introduction
-
-In today’s business environment, data plays a crucial role in decision-making. Organizations rely on accurate data analysis and visualization to understand performance and plan future strategies. This project, the Automobile Sales Dashboard, is developed using Microsoft Excel to convert raw sales data into meaningful and actionable insights.
-
-The dashboard provides a clear and interactive view of automobile sales performance across multiple dimensions such as year, country, product category, and quantity sold. By organizing and visualizing the data effectively, this project helps users quickly identify trends, compare performance, and make informed business decisions.
-
----
-
 ## Project Overview
 
 The main objective of this project is to design an interactive dashboard that simplifies complex sales data into an easy-to-understand format. The dashboard allows users to explore sales performance dynamically using filters and visual elements.
